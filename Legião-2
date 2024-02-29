@@ -1,0 +1,12 @@
+class Legiao-2
+
+	# instance variables
+	@call_sign
+	@shield_strength
+
+	# class variables
+	@@toughness
+
+	# other code omitted
+
+end
